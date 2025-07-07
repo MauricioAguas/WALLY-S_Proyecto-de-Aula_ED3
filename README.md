@@ -96,4 +96,16 @@ Caso B – Modo Follow Me
 
 ---
 
+## Inicio y Desarrollo del proyecto WALLY-S🤖
+
+El proyecto se inició con una fase de planificación colaborativa que involucró a todo el equipo, enfocada en definir el diseño y seleccionar los materiales para la estructura física de la carretilla autónoma. Tras varias discusiones, se tomó la decisión estratégica de construir la carrocería utilizando madera, tornillos, puntillas y llantas de plástico reciclado. Esta elección no solo se alineó con principios de sostenibilidad, sino que también ofreció flexibilidad para adaptaciones durante la fase de prototipado.
+
+La adquisición de los componentes electrónicos y mecánicos esenciales se concretó el 26 de junio. Al día siguiente, 27 de junio, el equipo se dirigió a la carpintería de la Universidad de Antioquia para obtener los materiales de madera y realizar los cortes precisos según el diseño preliminar.
+
+La primera semana del proyecto, comprendida aproximadamente entre el 28 de junio y el 4 de julio, se dedicó intensivamente al desarrollo y ensamblaje de la estructura física de WALLY-S. Esta etapa fue un proceso iterativo de construcción, prueba y rediseño. Durante este periodo, surgieron diversas ideas que llevaron a cambios significativos en el diseño original, como la selección de motores más adecuados para la tracción y la adaptación del tipo y tamaño de las llantas para optimizar la movilidad. Estas modificaciones fueron cruciales para asegurar una funcionalidad óptima y una estructura robusta, superando los desafíos iniciales de ingeniería y diseño.
+
+Una vez que se logró un prototipo funcional de la carrocería, se procedió con la fase de desarrollo de software. Esta etapa implicó la creación y optimización de los algoritmos de control para los motores, la integración del módulo GPS para el posicionamiento y la navegación, y el desarrollo de la lógica para los diferentes modos de operación. Se escribieron y depuraron los códigos necesarios para la comunicación Bluetooth, la detección de obstáculos mediante el sensor ultrasónico y la gestión general del sistema.
+
+Finalmente, se dio paso a la fase de montaje e integración, donde todos los componentes electrónicos y mecánicos adquiridos se ensamblaron en la estructura de la carretilla. Esta etapa ha sido fundamental para realizar las primeras pruebas de funcionamiento, identificar posibles puntos de mejora y refinar las estrategias de control y navegación. Actualmente, el proyecto se encuentra en esta fase de ajuste fino y optimización, preparando a WALLY-S para cumplir con los requisitos funcionales y no funcionales definidos inicialmente.
+
 
