@@ -108,4 +108,37 @@ Una vez que se logró un prototipo funcional de la carrocería, se procedió con
 
 Finalmente, se dio paso a la fase de montaje e integración, donde todos los componentes electrónicos y mecánicos adquiridos se ensamblaron en la estructura de la carretilla. Esta etapa ha sido fundamental para realizar las primeras pruebas de funcionamiento, identificar posibles puntos de mejora y refinar las estrategias de control y navegación. Actualmente, el proyecto se encuentra en esta fase de ajuste fino y optimización, preparando a WALLY-S para cumplir con los requisitos funcionales y no funcionales definidos inicialmente.
 
+## Viabilidad Económica de WALLY-S: Inversión y Proyección Detallada
+
+* Materiales Físicos y de Estructura:
+Puntillas (paquete de 20 unidades): $5.000 COP
+Tornillos (paquete de 20 unidades): $6.000 COP
+Pintura en aerosol negra (unidad): $25.000 COP
+Hoja de lija (unidad): $3.000 COP
+Pegamento (uso general): $10.000 COP
+Llantas (3 unidades x $10.000 COP c/u): $30.000 COP
+Madera: Donación de carpintería UdeA.
+
+* Componentes Electrónicos y de Conectividad:
+Cables Jumper Macho-Macho (paquete de 10 unidades): $8.000 COP
+Cables Jumper Macho-Hembra (paquete de 10 unidades): $8.000 COP
+Cables Jumper Hembra-Hembra (paquete de 10 unidades): $8.000 COP
+Rollo de Estaño (unidad): $25.000 COP
+Protoboard (tamaño medio): $12.000 COP
+Raspberry Pi Pico (YD-RP2040): $30.000 COP
+Puente H (Driver L298N): $12.000 COP
+Módulo GPS (NEO-6M): $23.250 COP
+Switches (2 unidades x $3.000 COP c/u): $6.000 COP
+Módulo Bluetooth (HC-05): $17.000 COP
+Magnetómetro (Brújula Digital HMC5883L): $21.990 COP
+Baterías (6 unidades x 4V 2500 mAh, aprox. $15.000 COP c/u): $90.000 COP
+Portapilas (2 unidades x $5.000 COP c/u): $10.000 COP
+Cable USB para Raspberry Pi Pico: $10.000 COP
+Cinta Adhesiva (rollo): $5.000 COP
+Cinta Doble Faz (rollo): $8.000 COP
+Sensor de Ultrasonido (HC-SR04): $14.000 COP
+Motores DC (2 unidades x $45.000 COP c/u): $90.000 COP
+
+TOTAL ESTIMADO PROTOTIPO: $477.240 COP
+
 
